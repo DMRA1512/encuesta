@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\encuestador\encuestador\bin\Debug\encuestador.exe.config
+C:\Users\User\source\repos\encuestador\encuestador\bin\Debug\encuestador.exe
+C:\Users\User\source\repos\encuestador\encuestador\bin\Debug\encuestador.pdb
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.csprojAssemblyReference.cache
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.Properties.Resources.resources
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.registrar.resources
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.csproj.GenerateResource.cache
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.exe
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.pdb
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.Encuesta.resources
+C:\Users\User\source\repos\encuestador\encuestador\obj\Debug\encuestador.frm_login.resources

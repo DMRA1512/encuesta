@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encuestador", "encuestador\encuestador.csproj", "{98F3A1B3-775B-42C4-8AF5-39728BC48BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F3A1B3-775B-42C4-8AF5-39728BC48BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F3A1B3-775B-42C4-8AF5-39728BC48BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F3A1B3-775B-42C4-8AF5-39728BC48BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F3A1B3-775B-42C4-8AF5-39728BC48BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E24B8D51-A8B4-4209-8CDB-B555D4FC4D8D}
+	EndGlobalSection
+EndGlobal
